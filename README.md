@@ -1,29 +1,29 @@
-# dod-stig-windows-hardening
-ISSO-led DoD STIG Windows hardening using GPO and SCAP
-dod-stig-windows-hardening/
+### dod-stig-windows-hardening
+## ISSO-led DoD STIG Windows hardening using GPO and SCAP
+ 
 │
-├── README.md
+## ├── README.md
 ├── EXECUTIVE_CHECKLIST.md
 ├── RACI_MATRIX.md
 ├── RMF_MAPPING.md
 │
-├── SOP/
+## ├── SOP/
 │   └── DoD_STIG_Windows_Hardening_SOP.md
 │
-├── Compliance/
+## ├── Compliance/
 │   ├── POAM_TEMPLATE.md
 │   └── WAIVER_TEMPLATE.md
 │
-├── Evidence/
+## ├── Evidence/
 │   ├── Before/
 │   │   └── README.md
 │   └── After/
 │       └── README.md
 │
-├── GPO/
+## ├── GPO/
 │   └── README.md
 │
-├── SCAP/
+## ├── SCAP/
 │   └── README.md
 │
-└── LICENSE
+## └── LICENSE
